@@ -1,0 +1,6 @@
+gitup
+jenkins
+ubuntu
+linux
+docker
+kubernets
